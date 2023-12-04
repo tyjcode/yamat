@@ -19,3 +19,6 @@
 
 - BlenderとYABEEでPanda3d用にモデルを作る
   https://pytan.hatenablog.com/entry/2015/06/27/081020
+
+### マニュアル
+https://docs.panda3d.org/1.10/python/index
